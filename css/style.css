@@ -1,7 +1,15 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 h2{
-    color: rgb(112, 112, 145);
+    color: rgb(38, 38, 49);
 }
 
 section{
-    background-color: rgb(150, 123, 112);
+    background-color: rgb(117, 106, 101);
+}
+
+p{
+    font-family: monospace;
 }
